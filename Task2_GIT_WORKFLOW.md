@@ -1,8 +1,9 @@
-// A typical Git workflow begins with initializing a repository
-
+## A typical Git workflow begins with initializing a repository
+``
 git init
+``
 
-// This command creates a .git directory where Git stores all objects and metadata. After initialization, configure the author identity:
+## This command creates a .git directory where Git stores all objects and metadata. After initialization, configure the author identity:
 
 git config --global user.name "Jane Doe"
 git config --global user.email "jane@example.com"
